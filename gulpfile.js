@@ -129,7 +129,7 @@ var config       = {
 */
 		"symbol": {
 			"dest": ".",
-			"sprite": "sprite_symbol_pictos.svg",
+			"sprite": "sprite.svg",
 		}
 	}
 };
